@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gif</string>
+    <string name="todo">TODO</string>
+    <string name="w">w</string>
+    <string name="search">Search</string>
+    <string name="Find">Поиск</string>
+    <string name="Search">Найти</string>
+</resources>
